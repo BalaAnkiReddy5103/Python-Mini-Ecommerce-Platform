@@ -49,13 +49,13 @@ Python-Ecommerce-Platform/
 **Step 2:** Clone the repository.
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/BalaAnkiReddy5103/Python-Mini-Ecommerce-Platform.git
 ```
 
 **Step 3:** Open the project folder.
 
 ```bash
-cd Python-Ecommerce-Platform
+cd Python-Mini-Ecommerce-Platform
 ```
 
 **Step 4:** Run the application.
