@@ -1,0 +1,25 @@
+1,iphone,50000,23
+2,Wireless Earbuds,2500,9
+3,Canvas Backpack,1800,7
+4,Wireless Mouse,900,15
+5,Mechanical Keyboard,3200,8
+6,USB-C Hub,1400,12
+7,Bluetooth Speaker,2800,12
+8,Smart Watch,4500,10
+9,Power Bank,1600,20
+10,Laptop Stand,1200,14
+11,Webcam,2200,9
+12,Monitor,18500,5
+13,Desk Lamp,950,18
+14,Phone Case,600,30
+15,Screen Protector,350,40
+16,Portable SSD,6200,7
+17,Gaming Headset,3900,11
+18,HDMI Cable,450,25
+19,Wireless Charger,1300,13
+20,Tablet,24000,4
+21,Printer,8900,6
+22,Backpack,2100,10
+23,USB Flash Drive,700,22
+24,Microphone,3100,8
+25,Router,2700,9
